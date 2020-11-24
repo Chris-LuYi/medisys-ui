@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:RequiemSoul/medisys-components.git"
+    "url": "git+https://github.com:RequiemSoul/medisys-ui.git"
   },
   "devDependencies": {
     "father": "^2.29.11"
