@@ -1,5 +1,5 @@
 {
-  "name": "@medisys/medisys-ui",
+  "name": "@chrisluyi/medisys-ui",
   "version": "0.1.1",
   "description": "Test sample for Medisys Components",
   "main": "./dist/index.js",
